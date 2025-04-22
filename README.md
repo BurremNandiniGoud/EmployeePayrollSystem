@@ -16,7 +16,7 @@ A *Java Swing* application with *MySQL* backend for managing employee payroll, l
 
 *Setup*:  
 1. Import SQL script (payroll_system.sql)  
-2. Configure JDBC connection  
+2. Configure JDBC connection(kindly use eclipse)  
 3. Run the Java application  
 
 *Default Logins*:  
